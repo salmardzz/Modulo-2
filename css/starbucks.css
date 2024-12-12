@@ -7,13 +7,19 @@ body {
     padding: 0;
 }
 
+header {
+    background: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
 .main-nav {
     display: flex;
-    box-shadow: 0 3px 3px rgba(0, 0, 0, .1);
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-
+    padding: 16px 42px;
+    margin: 0 auto;
+    max-width: 1440px;
 }
 
 .logo img {
@@ -24,25 +30,40 @@ body {
     display: flex;
     justify-content: space-between;
     list-style: none;
+    height: 100%;
+    gap: 32px;
 
 }
 
 .nav-links a {
     text-decoration: none;
     color: black;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
 
 }
 
-.menu-left{
+.menu-left {
     display: flex;
-    gap: 10px;
-
+    gap: 32px;
+}
+.menu-right {
+    display: flex;
+    gap: 32px;
 }
 
-.menu-right{
-    display: flex;
-    gap: 10px;
+.btn-ingresar {
+    border: 1px solid black;
+    padding: 8px 16px;
+    border-radius: 50px;
+}
 
+.btn-join {
+    background: black;
+    color: white !important;
+    padding: 8px 16px;
+    border-radius: 50px;
 }
 
 .row {
