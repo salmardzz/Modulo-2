@@ -9,11 +9,13 @@ body {
 h1 {
     font-size: 24px;
     color: #333;
+    align-content: center;
 }
 
 p {
-    color: #666;
+    color: #6a4646;
     margin-bottom: 20px;
+    
 }
 
 /* Estilo del grid */
