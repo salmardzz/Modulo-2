@@ -1,7 +1,7 @@
-# Módulo 2: Prácticas y Ejercicios 🚀
+# Módulo 2: Prácticas y Ejercicios 🌷͙
 
 ## Descripción 📄
-Este repositorio contiene prácticas, ejercicios y ejemplos realizados durante el **Módulo 2** del aprendizaje de **HTML y CSS**. Incluye ejercicios enfocados en conceptos como **Flexbox**, **Especificidad**, **Animaciones** y otros temas importantes para el desarrollo web.
+Este repositorio contiene prácticas, ejercicios y ejemplos realizados durante el **Módulo 2** del aprendizaje de **HTML y CSS**. 
 
 ---
 
@@ -14,14 +14,11 @@ Este repositorio contiene prácticas, ejercicios y ejemplos realizados durante e
 - **`clase-1.html` a `clase-8.html`**  
   Ejercicios correspondientes a cada clase del módulo.
 
-- **`clase-4-flexbox.html`**  
-  Ejercicio de **Flexbox** agregado en la clase 4.
-
 - **`clase-5-flexbox-repaso.html`**  
   Repaso de **Flexbox** en la clase 5 junto con el ejercicio *Starbucks*.
 
 - **`animación.html`**  
-  Ejemplo de **animaciones CSS** realizado en la clase 5.
+  Ejemplo de **animaciones CSS** obtenido de internet.
 
 - **`Starbucks.html`**  
   Diseño agregado como parte del ejercicio práctico de Starbucks.
@@ -35,16 +32,8 @@ Este repositorio contiene prácticas, ejercicios y ejemplos realizados durante e
 
 ---
 
-## Tecnologías Utilizadas 🛠️
-- **HTML5**  
-  Lenguaje de marcado para la estructura del sitio web.
 
-- **CSS3**  
-  Hojas de estilo en cascada para dar formato y diseño.
-
----
-
-## Despliegue 🚀
+## Despliegue ˚˖𓍢ִ໋🌷͙֒✧🩷˚.🎀༘⋆
 Este proyecto está desplegado mediante **GitHub Pages**. Puedes verlo en el siguiente enlace:  
 🔗 [**Ver Sitio Web**](https://github.com/salmardzz/Modulo-2)
 
